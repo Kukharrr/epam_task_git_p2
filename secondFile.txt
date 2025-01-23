@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+different_line1
+different_line2
+=======
+modified_line1
+modified_line2
+>>>>>>> git_2
+line3
+line4
+line5
+line6
+line7
+line8
+line9
+<<<<<<< HEAD
+different_line10
+=======
+modified_line10
+>>>>>>> git_2
